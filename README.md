@@ -44,10 +44,12 @@ To improve digital payment security by identifying fraudulent QR codes before pa
 ## ▶️ How to Run
 
 ```bash
-python main.py
-📂 Project Structure
-  QR_PROJECT/
-│── main.py
+python qr_payment_system.py
+# 📂 Project Structure
+
+```plaintext
+QR_PROJECT/
+│── qr_payment_system.py
 │── random_qr.png
 │── README.md
 🔐 Use Case
