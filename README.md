@@ -45,3 +45,17 @@ To improve digital payment security by identifying fraudulent QR codes before pa
 
 ```bash
 python main.py
+📂 Project Structure
+  QR_PROJECT/
+│── main.py
+│── random_qr.png
+│── README.md
+🔐 Use Case
+
+When a customer scans a QR code in a shop:
+
+If the QR is real → Payment page opens
+If the QR is fake → Warning message shown
+👨‍💻 Author
+  Sri Man
+      GitHub: https://github.com/Sriman-7
